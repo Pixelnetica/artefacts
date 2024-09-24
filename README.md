@@ -1,1 +1,1 @@
-# artefacts
+# Pixelnetica Document Scanning SDK artifacts
